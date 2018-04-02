@@ -1,0 +1,6 @@
+
+image.exe
+*.o
+*.dll
+*.idx3-ubyte
+*.idx1-ubyte
